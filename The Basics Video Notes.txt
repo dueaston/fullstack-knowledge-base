@@ -1,0 +1,58 @@
+1. "Course Introduction" 
+
+<Key Insights> Angular is powerful and a great path to estabilish a strong foundation of capabilities. 
+
+
+
+2. "What is Angular" 
+
+<Key Insights> Great to clarify this is the path to make nice single page applications. 
+
+
+
+3. "Angular vs Angular 2 vs Latest Version" 
+
+<Key Insights> Good explanation regarding the versions and their differences. 
+
+
+
+4. "Angular Setup & First App" 
+
+<Key Insights> Verfied that Angular is installed and running properly. 
+
+<Questions> Are there quicker ways to do this rather than repeating each time for a new project? 
+
+
+
+5. "Editing the First App" 
+
+<Key Insights> Don't be intimidated by the number of files in the IDE. Just stay focused on the main files and what they are meant to do. 
+
+
+6. "The Course Structure" 
+
+<Key Insights> Break this up into small pieces, don't stress over the long list of videos, terms and items. Just progress through them. 
+
+
+
+7. "How to get the Most out of the Course" 
+
+<Key Insights> Follow the structure, spend time writing code. It doesn't have to be perfect, it just has to work. 
+
+
+
+8. "What is TypeScript" 
+
+<Key Insights> Get comfortable working in TypeScript, it will be widely used. 
+
+
+
+9. "A Basic Project Setup using Bootstrap for Styling" 
+
+
+<Questions> How often and when id ng serve necessary and/or helpful? 
+
+
+
+
+
